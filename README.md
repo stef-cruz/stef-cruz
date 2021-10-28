@@ -1,7 +1,7 @@
 ### Hi there, Stef here 👋
 
 --------------
-#### My tech stack:
+#### My tech skills:
 HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Flask, React.
 
 --------------
