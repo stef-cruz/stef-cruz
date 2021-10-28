@@ -11,7 +11,7 @@ Pycharm, Datagrip, Webstorm, Circle CI, Github
 --------------
 #### What I'm up to lately:
 🔭 I’m currently learning React - shiny new online portfolio coming soon!  
-:ghost: Recently participated in a 'Spoockaton' (Halloween Hackaton) and collaborated with awesome people - repo [here](https://github.com/StephenJ2020/funny-bones)
+:ghost: Recently participated in a 'Spoockaton' (Halloween Hackaton) and collaborated with awesome people - [repo](https://github.com/StephenJ2020/funny-bones) / [live site](https://stephenj2020.github.io/funny-bones/index.html) / [memory game I developed](https://stephenj2020.github.io/funny-bones/flipping_cards.html)
 
 --------------
 #### Projects developed:
