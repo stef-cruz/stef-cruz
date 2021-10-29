@@ -15,7 +15,7 @@ Pycharm, Datagrip, Webstorm, Circle CI, Github
 
 --------------
 #### Projects developed:
-:point_down: Check out the 4 projects I developed in the Full Stack Dev bootcamp
+:point_down: Check out my latest projects below
 
 
 <!--
