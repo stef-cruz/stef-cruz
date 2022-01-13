@@ -2,7 +2,7 @@
 
 --------------
 #### My tech skills:
-HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Flask, React.
+HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Flask, React, Vue.js.
 
 --------------
 #### Tools I'm familiar with:
@@ -10,8 +10,7 @@ Pycharm, Datagrip, Webstorm, Circle CI, Github
 
 --------------
 #### What I'm up to lately:
-🔭 I’m currently learning React and Vue.js  
-:ghost: Recently participated in a 'Spoockaton' (Halloween Hackaton) and collaborated with awesome people - [repo](https://github.com/StephenJ2020/funny-bones) / [live site](https://stephenj2020.github.io/funny-bones/index.html) / [memory game I developed](https://stephenj2020.github.io/funny-bones/flipping_cards.html)
+🔭 I’m currently learning Vue.js & working with Python (Django)  
 
 --------------
 #### Projects developed:
