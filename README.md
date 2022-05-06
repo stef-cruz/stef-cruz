@@ -2,15 +2,16 @@
 
 --------------
 #### My tech skills:
-HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Vue.js.
+HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Vue.js, React.
 
 --------------
 #### Tools I'm familiar with:
-Pycharm, Datagrip, Webstorm, Circle CI, Github
+Pycharm, Webstorm, Circle CI, Github
 
 --------------
 #### What I'm up to lately:
-🔭 Working as a junior full stack dev (tech stack: Vue.js & Django)  
+- 🔭 I'm currently working as a junior full stack dev (tech stack: Vue.js & Django)  
+- 🌱 I'm learning Vue.js, React & Django
 
 --------------
 #### Projects developed:
