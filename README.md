@@ -1,22 +1,12 @@
 ### Hi there, Stef here 👋
 
 --------------
-#### My tech skills:
-HTML, CSS, Javascript, SASS, Bootstrap, Python, Django, Vue.js, React.
-
---------------
-#### Tools I'm familiar with:
-Pycharm, Webstorm, Circle CI, Github
-
---------------
 #### What I'm up to lately:
-- 🔭 I'm currently working as a junior full stack dev (tech stack: Vue.js & Django)  
-- 🌱 I'm learning Vue.js, React & Django
+- 🔭 Back End Engineer @ Kitman Labs
 
 --------------
-#### Projects developed:
-Check out my latest projects below :point_down: 
-
+#### My tech skills:
+- 👩‍💻 Ruby on Rails, REST APIs, BDD
 
 <!--
 **stefcruz/stefcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
