@@ -6,9 +6,6 @@
 #### My tech skills:
 - 👩‍💻 Ruby on Rails, REST APIs, BDD
 
-#### Some of my work below:
-- Check it out: 👇 (ps. my work is not pretty, but it works wonders 😝).
-
 <!--
 **stefcruz/stefcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
